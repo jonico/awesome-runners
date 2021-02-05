@@ -8,9 +8,12 @@ Data can be out of date, so if a certain feature is told to be missing, please d
 
 Pull requests are welcome :blush:
 
+## The matrix
+
+
 ## Comparison categories
 
-#### Runtime requirements - Container, Kubernetes, virtual machines
+#### Runtime - Container, Kubernetes, virtual machines
 
 Specifies whether the self-hosted runners are running on a container, Kubernets cluster or vitrtual machine. Virtual machine based runners typically have some cloud specific dependencies.
 
@@ -70,5 +73,3 @@ While the number of contributors is not the only criteria, it is typically a goo
 #### SelfService - Ability for end users to setup new runner scale sets
 
 Some runner solutions have add-ons that allow end users to stand up new runner groups in a self-service fashion, e.g. via IssueOps.
-
-## The matrix
