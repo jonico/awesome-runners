@@ -1,4 +1,4 @@
-# awesome-runners
+# :octocat: awesome-runners :runner:
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/jonico/awesome-runners.svg)](https://github.com/jonico/awesome-runners/blob/main/LICENSE)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
