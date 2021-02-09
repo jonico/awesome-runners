@@ -1,4 +1,10 @@
 # awesome-runners
+
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/jonico/awesome-runners.svg)](https://github.com/jonico/awesome-runners/blob/main/LICENSE)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/jonico/awesome-runners/graphs/commit-activity)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/jonico/awesome-runners/)
+
 A curated list of awesome self-hosted GitHub Action runner solutions in a large comparison matrix
 
 ## Purpose
@@ -6,7 +12,7 @@ A curated list of awesome self-hosted GitHub Action runner solutions in a large 
 The purpose of this repository is to provide an overview on self-hosted runner solutions for GitHub Actions compared by various criteria. There is no rating implied as the importance of the various categories differ from use case to use case.
 Data can be out of date, so if a certain feature is told to be missing, please double check whether this is still the case.
 
-Pull requests are welcome :blush:
+Pull requests are welcome :blush: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### General collection of self-hosted runner best practices
 
