@@ -73,3 +73,7 @@ While the number of contributors is not the only criteria, it is typically a goo
 #### SelfService - Ability for end users to setup new runner scale sets
 
 Some runner solutions have add-ons that allow end users to stand up new runner groups in a self-service fashion, e.g. via IssueOps.
+
+#### IdleCosts - Costs that incur even if no jobs are running
+
+Some solutions require certain central components to be up and running all the time or at least one idle runner to allow scaling up properly - this category provides an idea of what is needed in terms of components, not concrete $$$ costs.
