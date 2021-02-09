@@ -12,13 +12,13 @@ A curated list of awesome self-hosted GitHub Action runner solutions in a large 
 The purpose of this repository is to provide an overview on self-hosted runner solutions for GitHub Actions compared by various criteria. There is no rating implied as the importance of the various categories differ from use case to use case.
 Data can be out of date, so if a certain feature is told to be missing, please double check whether this is still the case.
 
-Pull requests are welcome :blush: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### General collection of self-hosted runner best practices
 
 During my research, I stumbled over [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) with :sparkles: tips on what to consider when using self-hosted runners by yourself.
 
-## The matrix
+## The matrix (might be better readable on [GitHub pages](https://jonico.github.io/awesome-runners/))
 
 | Solution name                                                                       | Runtime                       | GHES     | RegScope                                | Scaling                                    | AutoScaling                                             | Architecture           | Dereg                    | PATInRunner | CleanUp         | Privileged                        | Exposed                            | AllInOne                          | SelfService                      | IdleCosts                                                                 |
 |-------------------------------------------------------------------------------------|-------------------------------|----------|-----------------------------------------|--------------------------------------------|---------------------------------------------------------|------------------------|--------------------------|-------------|-----------------|-----------------------------------|------------------------------------|-----------------------------------|----------------------------------|---------------------------------------------------------------------------|
