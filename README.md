@@ -82,7 +82,7 @@ Some centralized runner solutions rely on the ability to receive web hook events
 
 GitHub's own, hosted runners have a lot of software already pre-installed. Most container based solutions follow a different philosophy where only a minimum amount of software is pre-installed.
 
-#### Community - Number of contributors to the solution
+#### Contributors - Number of contributors to the solution
 
 While the number of contributors is not the only criteria, it is typically a good indicator for the maturity of a solution.
 
