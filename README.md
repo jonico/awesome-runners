@@ -10,7 +10,7 @@ Pull requests are welcome :blush:
 
 ### General collection of self-hosted runner best practices
 
-During my research, I stumbled over https://github.com/dduzgun-security/github-self-hosted-runners with :sparkles: tips on what to consider when using self-hosted runners by yourself.
+During my research, I stumbled over [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) with :sparkles: tips on what to consider when using self-hosted runners by yourself.
 
 ## The matrix
 
@@ -35,7 +35,7 @@ During my research, I stumbled over https://github.com/dduzgun-security/github-s
 
 #### Runtime - Container, Kubernetes, virtual machines
 
-Specifies whether the self-hosted runners are running on a container, Kubernets cluster or virtual machine. Virtual machine based runners typically have some cloud specific dependencies.
+Specifies whether the self-hosted runners are running on a container, Kubernetes cluster or virtual machine. Virtual machine based runners typically have some cloud specific dependencies.
 
 #### GHES - GitHub Enterprise Server support
 
