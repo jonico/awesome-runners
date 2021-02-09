@@ -14,26 +14,13 @@ During my research, I stumbled over https://github.com/dduzgun-security/github-s
 
 ## The matrix
 
-| Solution name                                                                       | Runtime | GHES | RegScope | Scaling | AutoScaling | Architecture | Dereg | SecretInRunner | CleanUp | Privileged | Docker | Exposed | AllInOne | Community | SelfService | IdleCosts |
-|-------------------------------------------------------------------------------------|---------|------|----------|---------|-------------|--------------|-------|----------------|---------|------------|--------|---------|----------|-----------|-------------|-----------|
-| https://github.com/philips-labs/terraform-aws-github-runner                         |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/summerwind/actions-runner-controller                             |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/terraform-google-modules/terraform-google-github-actions-runners |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/evryfs/github-actions-runner-operator                            |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/MonolithProjects/ansible-github_actions_runner                   |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/machulav/ec2-github-runner                                       |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/aslafy-z/github-runner                                           |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/XenitAB/github-runner                                            |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/redhat-actions/self-hosted-runner-installer                      |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/lts-beratung/ansible-github-action-runner                        |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/rakheshster/github-runner-on-ubuntu                              |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
-| https://github.com/SanderKnape/github-runner                                        |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+
 
 ## Comparison categories
 
 #### Runtime - Container, Kubernetes, virtual machines
 
-Specifies whether the self-hosted runners are running on a container, Kubernets cluster or vitrtual machine. Virtual machine based runners typically have some cloud specific dependencies.
+Specifies whether the self-hosted runners are running on a container, Kubernets cluster or virtual machine. Virtual machine based runners typically have some cloud specific dependencies.
 
 #### GHES - GitHub Enterprise Server support
 
@@ -59,7 +46,7 @@ While self-hosted action runners can support Linux (x86, ARM, ARM64), Mac and Wi
 
 Not all runner solutions remove themselves after they have been deleted, which can be problematic, especially, if combined aith auto-scaling capabilities.
 
-#### SecretInRunner - Personal access or OAuth token needed in runner
+#### PATInRunner - Personal access or OAuth token needed in runner
 
 Some runner solutions provide a personal access token (PAT) or OAuth token directly to the runner so that it can register itself. This imposes the risk of a malicious job trying to steal the token and use it to elevate its permissions. Solutions that only pass a runner token to the actual runners are preferred from a security perspective.
 
