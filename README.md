@@ -8,6 +8,10 @@ Data can be out of date, so if a certain feature is told to be missing, please d
 
 Pull requests are welcome :blush:
 
+## General collection of self-hosted runner best practices
+
+During my research, I stumbled over https://github.com/dduzgun-security/github-self-hosted-runners with :sparkles: tips on what to consider when using self-hosted runners by yourself.
+
 ## The matrix
 
 
