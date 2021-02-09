@@ -8,12 +8,26 @@ Data can be out of date, so if a certain feature is told to be missing, please d
 
 Pull requests are welcome :blush:
 
-## General collection of self-hosted runner best practices
+### General collection of self-hosted runner best practices
 
 During my research, I stumbled over https://github.com/dduzgun-security/github-self-hosted-runners with :sparkles: tips on what to consider when using self-hosted runners by yourself.
 
 ## The matrix
 
+| Solution name                                                                       | Runtime | GHES | RegScope | Scaling | AutoScaling | Architecture | Dereg | SecretInRunner | CleanUp | Privileged | Docker | Exposed | AllInOne | Community | SelfService | IdleCosts |
+|-------------------------------------------------------------------------------------|---------|------|----------|---------|-------------|--------------|-------|----------------|---------|------------|--------|---------|----------|-----------|-------------|-----------|
+| https://github.com/philips-labs/terraform-aws-github-runner                         |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/summerwind/actions-runner-controller                             |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/terraform-google-modules/terraform-google-github-actions-runners |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/evryfs/github-actions-runner-operator                            |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/MonolithProjects/ansible-github_actions_runner                   |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/machulav/ec2-github-runner                                       |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/aslafy-z/github-runner                                           |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/XenitAB/github-runner                                            |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/redhat-actions/self-hosted-runner-installer                      |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/lts-beratung/ansible-github-action-runner                        |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/rakheshster/github-runner-on-ubuntu                              |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
+| https://github.com/SanderKnape/github-runner                                        |         |      |          |         |             |              |       |                |         |            |        |         |          |           |             |           |
 
 ## Comparison categories
 
