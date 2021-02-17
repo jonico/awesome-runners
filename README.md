@@ -17,7 +17,7 @@ Data can be out of date, so if a certain feature is told to be missing, please d
 
 ### General collection of self-hosted runner best practices
 
-During my research, I stumbled over [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) with :sparkles: tips on what to consider when using self-hosted runners by yourself.
+During my research, I stumbled over [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) with ✨ tips ✨ on what to consider when using self-hosted runners by yourself.
 
 ## The matrix (might be better readable on [GitHub pages](https://jonico.github.io/awesome-runners/))
 
