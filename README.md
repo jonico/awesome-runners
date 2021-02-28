@@ -100,3 +100,13 @@ Some runner solutions have add-ons that allow end users to stand up new runner g
 #### IdleCosts - Costs that incur even if no jobs are running
 
 Some solutions require certain central components to be up and running all the time or at least one idle runner to allow scaling up properly - this category provides an idea of what is needed in terms of components, not concrete $$$ costs.
+
+## Matrix bonus
+
+If you like to test the auto-scaling capabilities of your awesome runners with Matrix inspired action build runs, including LED matrices and Raspberry PIs, check out [this repo](https://github.com/jonico/raspberry-pi-actions).
+
+![image](https://user-images.githubusercontent.com/1872314/109425278-cbe32780-79e7-11eb-96b0-bd8be7b70896.png)
+
+![image](https://user-images.githubusercontent.com/1872314/109425438-8410d000-79e8-11eb-8825-af8c60c11d6f.png)
+
+![image](https://user-images.githubusercontent.com/1872314/109425509-d8b44b00-79e8-11eb-9494-c860ee4d00b1.png)
