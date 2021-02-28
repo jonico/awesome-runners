@@ -1,4 +1,5 @@
-![awesome-runners](https://user-images.githubusercontent.com/1872314/108227244-fd353b00-713d-11eb-867c-36c6b6055af1.gif)
+![image](https://user-images.githubusercontent.com/1872314/109429007-f211c300-79f9-11eb-940d-2e778c89c9ea.png)
+
 # awesome-runners 🏃
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/jonico/awesome-runners.svg)](https://github.com/jonico/awesome-runners/blob/main/LICENSE)
