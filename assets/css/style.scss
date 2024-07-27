@@ -3,3 +3,14 @@
 
 @import "{{ site.theme }}";
 .container { max-width: none; width: 100%; }
+
+thead {
+    /* fix at top of screen on scroll */
+    position: sticky;
+    top: 0;
+    /*
+     * Make opaque, match body background. Copied directly from `hacker` github pages theme, see 
+     * https://github.com/pages-themes/hacker/blob/e3c8d1ad288894be216002a5bc29fc611aeab9ac/_sass/jekyll-theme-hacker.scss#L20
+     */
+    background: #151515 url("../images/bkg.png") 0 0;
+}
