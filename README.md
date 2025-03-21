@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/1872314/109429007-f211c300-79f9-11eb-940d-2e778c89c9ea.png)
 
-# awesome-runners 🏃
+# awesome-runners 🏃OK
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/jonico/awesome-runners.svg)](https://github.com/jonico/awesome-runners/blob/main/LICENSE)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
@@ -124,12 +124,4 @@ Some solutions require certain central components to be up and running all the t
 
 If you like to test the auto-scaling capabilities of your awesome runners with Matrix inspired action build runs, including LED matrices and Raspberry PIs, check out [this repo](https://github.com/jonico/raspberry-pi-actions).
 ℨ𝔄ℌℑ𝔇𝔘𝔩 ℑ𝔖𝔏𝔄𝔐  𝖅𝕬𝕳𝕴𝕯𝖀𝖑 𝕴𝕾𝕷𝕬𝕸  ♬ൠ  𝐳𝓐Ĥι∂𝔲ㄥ ＩˢĹᗩ𝓶  🐚🍪  𝓩𝓐𝓗𝓘𝓓𝓤𝓵 𝓘𝓢𝓛𝓐𝓜  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  ℤ𝔸ℍ𝕀𝔻𝕌𝕝 𝕀𝕊𝕃𝔸𝕄  ＺＡＨＩＤＵｌ ＩＳＬＡＭ  -漫~*'¨¯¨'*·舞~   🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀   ~舞·*'¨¯¨'*~漫-  ᴢᴀʜɪᴅᴜʟ ɪꜱʟᴀᴍ  W∀˥SI l∩ᗡIH∀Z  Z⃣   A⃣   H⃣   I⃣   D⃣   U⃣   l⃣    I⃣   S⃣   L⃣   A⃣   M⃣  Z⃞    A⃞    H⃞    I⃞    D⃞    U⃞    l⃞     I⃞    S⃞    L⃞    A⃞    M⃞  🅉🄰🄷🄸🄳🅄🄻 🄸🅂🄻🄰🄼  MA⅃ꙄI |UᗡIHAƸ  Z̶̮͐̄́̔͒̚͝Ą̸̢̛͍̩̳̟̜͍̮͗̆̏̍̓͊͋͠H̷̨̧̩͔̣̬͊̔̓I̶̢̞̊̽͂̈̊̑͌̚D̷̮̈̑́̓͘͝U̴͓̤͈͛l̶̗͍͗͝ ̷͇̤̙̮̗͍̀͐ͅI̵͈͎͐͑͜S̸̨̰͖̗̲͕̦̃̇̄͠L̵͇̲̥͆̚͝Ḁ̵̀͆̽̐͆͝Ḿ̵̬̖  🆉🅰🅷🅸🅳🆄🅻 🅸🆂🅻🅰🅼  ZₐₕᵢDᵤₗ ᵢₛₗₐₘ  ᶻᴬᴴᴵᴰᵁˡ ᴵˢᴸᴬᴹ  ⓏⒶⒽⒾⒹⓊⓛ ⒾⓈⓁⒶⓂ  չคђเ๔ยɭ เรɭค๓  ZAHIDUʅ ISLAM  ʐǟɦɨɖʊʟ ɨֆʟǟʍ  ፚᏗᏂᎥᎴᏬᏝ ᎥᏕᏝᏗᎷ  ʑąɧıɖųƖ ıʂƖąɱ  ຊคhi໓นl iŞlค๓  𝐙𝐀𝐇𝐈𝐃𝐔𝐥 𝐈𝐒𝐋𝐀𝐌  𝗭𝗔𝗛𝗜𝗗𝗨𝗹 𝗜𝗦𝗟𝗔𝗠  𝘡𝘈𝘏𝘐𝘋𝘜𝘭 𝘐𝘚𝘓𝘈𝘔  𝙕𝘼𝙃𝙄𝘿𝙐𝙡 𝙄𝙎𝙇𝘼𝙈  𝚉𝙰𝙷𝙸𝙳𝚄𝚕 𝙸𝚂𝙻𝙰𝙼  ZΛΉIDЦᄂ IƧᄂΛM  zαнι∂υℓ ιѕℓαм  ZÄHÌÐÚl Ì§LÄM  Ⱬ₳ⱧłĐɄⱠ ł₴Ⱡ₳₥  乙卂卄丨ᗪㄩㄥ 丨丂ㄥ卂爪  乙ﾑんﾉりひﾚ ﾉ丂ﾚﾑﾶ  【Z】【A】【H】【I】【D】【U】【l】 【I】【S】【L】【A】【M】  『Z』『A』『H』『I』『D』『U』『l』 『I』『S』『L』『A』『M』  ≋Z≋A≋H≋I≋D≋U≋l≋ ≋I≋S≋L≋A≋M≋  ░Z░A░H░I░D░U░l░ ░I░S░L░A░M░  (っ◔◡◔)っ ♥ ZAHIDUl ISLAM ♥  ＺＡＨＩＤＵｌ　ＩＳＬＡＭ　偉夜キ  ＺΛＨＩＤＵｌ░ＩＳＬΛＭ　（偉夜キ）  【﻿ＺＡＨＩＤＵｌ　ＩＳＬＡＭ】  ˜”*°•.˜”*°• ZAHIDUl ISLAM •°*”˜.•°*”˜  [̲̅Z][̲̅A][̲̅H][̲̅I][̲̅D][̲̅U][̲̅l] [̲̅I][̲̅S][̲̅L][̲̅A][̲̅M]  Z҉A҉H҉I҉D҉U҉l҉ ҉I҉S҉L҉A҉M҉  ɀȺǶįᎠԱӀ įϚꝈȺⱮ  ᘔᗩᕼIᗪᑌᒪ Iᔕᒪᗩᗰ  ᗱᗩᕼᓰᕲᑘᒪ ᓰSᒪᗩᘻ  Z̶A̶H̶I̶D̶U̶l̶ ̶I̶S̶L̶A̶M̶  Z̴A̴H̴I̴D̴U̴l̴ ̴I̴S̴L̴A̴M̴  Z̷A̷H̷I̷D̷U̷l̷ ̷I̷S̷L̷A̷M̷  Z̲A̲H̲I̲D̲U̲l̲ ̲I̲S̲L̲A̲M̲  Z̳A̳H̳I̳D̳U̳l̳ ̳I̳S̳L̳A̳M̳  Z̾A̾H̾I̾D̾U̾l̾ ̾I̾S̾L̾A̾M̾  Z♥A♥H♥I♥D♥U♥l♥ ♥I♥S♥L♥A♥M  Z͎A͎H͎I͎D͎U͎l͎ ͎I͎S͎L͎A͎M͎  Z͓̽A͓̽H͓̽I͓̽D͓̽U͓̽l͓̽ ͓̽I͓̽S͓̽L͓̽A͓̽M͓̽  Wingdings: ☪︎✌︎☟︎✋︎👎︎🕆︎●︎ ✋︎💧︎☹︎✌︎💣︎  🐦  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  🐦  🍫  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  🍫  🍧  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  🍧  ✮  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  ✮Ｉ𝓢ㄥ𝐀𝐌  💋🐻  ♛☺👹  𝐳αħ𝓲ᗪᵘℓ ιｓ𝓛Ãм  🐙🎯  😎🍫  ⓏÃ𝓗𝒾ｄυ𝓁 Ⓘｓ𝕝𝓐𝐦  ♚🎈  ඏ🎁  𝔷𝒶𝒽𝔦∂ᑌ𝓁 ί𝓼𝓛𝐚𝓜  🐊☝  ☮🐯  Ż𝐀𝐡ĮⒹỮℓ 𝔦ᔕĹａ𝓂  ♗☆  .•♫•♬• 乙ᵃ𝐡ι𝔻𝓤l 𝓲丂ｌⓐ爪 •♬•♫•.  ••.•´¯`•.•• ᶻ卂ℍ𝒾∂υｌ 𝕀ŞㄥαⓂ ••.•´¯`•.••  .•°¤*(¯`★´¯)*¤° Ⓩ𝓪𝓗ιĎยㄥ ｉᔕĹÃ๓ °¤*(¯´★`¯)*¤°•.  ☞♬  ｚαн𝒾𝓭υ𝓵 ＩⓈ𝓵คм  ♛♪  —(••÷[ ŽⒶн𝕚𝔡Ⓤ𝓁 𝓘𝓼ℓ𝓐ⓜ ]÷••)—  ★·.·´¯`·.·★   🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀   ★·.·`¯´·.·★  🍒  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  🍒  🐁 ⋆ 🐹  🎀  𝒵𝒜𝐻𝐼𝒟𝒰𝓁 𝐼𝒮𝐿𝒜𝑀  🎀  🐹 ⋆ 🐁ุ
-![image](https://user-images.githubusercontent.com/1872314/109425278-cbe32780-79e7-11eb-96b0-bd8be7b70896.png)
-
-![image](https://user-images.githubusercontent.com/1872314/109425509-d8b44b00-79e8-11eb-9494-c860ee4d00b1.png)
-
-![image](https://user-images.githubusercontent.com/1872314/109425714-f46c2100-79e9-11eb-892e-2eb123862356.png)
-
-![image](https://user-images.githubusercontent.com/1872314/109425741-22e9fc00-79ea-11eb-903d-1b7ad782ef52.png)
-
-![image](https://user-images.githubusercontent.com/1872314/109425763-3dbc7080-79ea-11eb-9c98-0cc59f1a22f8.png)
+!?
