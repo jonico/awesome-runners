@@ -20,6 +20,11 @@ Data can be out of date, so if a certain feature is told to be missing, please d
 
 During my research, I stumbled over [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) with ✨ tips ✨ on what to consider when using self-hosted runners by yourself.
 
+Additional security references for self-hosted runner deployments:
+
+- [GitHub Actions secure use reference](https://docs.github.com/actions/security-guides/security-hardening-for-github-actions) - GitHub's guidance for hardening workflows, secrets, permissions, and self-hosted runner usage.
+- [Harden-Runner](https://github.com/step-security/harden-runner) - Runtime security monitoring and egress control for GitHub Actions runners, including self-hosted runner deployments.
+
 ### A word about self-hosted action runner images / virtual environments and how to test locally
 
 The virtual environments provided by GitHub Action managed runners like `ubuntu-latest` contain [a LOT of pre-installed tools](https://github.com/actions/virtual-environments) already. If all of those tools were installed in your self-hosted runner, this would result in [images > 18 GB](https://github.com/nektos/act#alternative-runner-images). In many cases where you have a better picture for which purposes/platforms you will use your self-hosted runners, this is probably not what you want for performance and maintenance reasons. All of the self-hosted solutions compared allow to define custom images with custom tooling.
